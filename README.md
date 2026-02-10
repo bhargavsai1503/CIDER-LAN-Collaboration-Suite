@@ -154,6 +154,7 @@ Access the chat panel by clicking the **"Chat"** toggle button.
 ### 
 
 ### **File Sharing**
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0c18dc64-ce4d-4aa8-83d0-29a73dccd348" />
 
 <img width="1379" height="775" alt="File_sharing" src="https://github.com/user-attachments/assets/9b457835-1eae-48a9-88a8-48791ab3c4a5" />
@@ -332,4 +333,4 @@ While functional, the application can be improved with the following enhancement
 - Implemented the **Group Text Chat system** with reliable message delivery, system notifications, and user presence updates.
 - Built the **File Sharing module**, including transactional upload/download handling, progress tracking, and file availability broadcasts.
 - Implemented **UDP keep-alive, timeout cleanup, and resource deallocation logic** to ensure robustness against crashes and disconnects.
-- Authored documentation covering **Communication Protocols, Server & Client Implementation, Performance Analysis, and Future Work**. :contentReference[oaicite:1]{index=1}
+- Authored documentation covering **Communication Protocols, Server & Client Implementation, Performance Analysis, and Future Work**. 
